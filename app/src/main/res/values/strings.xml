@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Guess The Day</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Guess the Day (DD-MM-YYYY)</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="OptionA">RadioButton1</string>
+    <string name="OptionB">RadioButton2</string>
+    <string name="OptionC">RadioButton3</string>
+    <string name="OptionD">RadioButton4</string>
+    <string name="clear">CLEAR</string>
+    <string name="guess_date">11-10-2002</string>
+    <string name="try_again">Try Again</string>
+    <string name="your_score_is">Your Score is:</string>
+    <string name="submit">SUBMIT</string>
+    <string name="q_number">1</string>
+    <string name="question_number">Question Number:</string>
+    <string name="guess_the_day">Guess the Day</string>
+    <string name="dd_mm_yyyy">DD-MM-YYYY</string>
+    <string name="bandavya">Made with ❤ by Bandavya</string>
+</resources>
